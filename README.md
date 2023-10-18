@@ -1,6 +1,7 @@
 # tri-de-perso
+Le programme "fini" est celui qui s'appel: fonctionne.py
 
-Dans tri_de perso, il y a le &er résultat que j'attendait et qui fonctionne comme je le veux.
+Dans "tri_de perso.py", il y a le 1er résultat que j'attendais et qui fonctionne comme je le veux, ce qui donne une idée du résultat attendu. (Fait en imaginant être sur le bord d'un circuit et en notant le nom à chaque fois que la personne passe devant moi)
 Je l'ai juste fusionné avec le programme extract pour pouvoir utiliser un tableur pour ajouter de personnages plus facilement.
 
-J'ai ensuite ajouté une ligne pour que ça retourne à la ligne quand le plus lent des personnage joues de manière à bien voir un tour de jeu.
+J'ai ensuite modifié la fin (avec ChatGPT) pour que ça retourne à la ligne quand le plus lent des personnages joues de manière à bien voir un tour de jeu.
