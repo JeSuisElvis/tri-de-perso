@@ -5,7 +5,7 @@ D = {
 'C,': (40, 0),
 'D,': (10, 0)
 }
-nb_iter = 100  # Nombre de tours (base 100)
+nb_iter = 100  # Nombre de passages (base 100 mais ça importe peu)
 c = 1
 s = ""
 max_val = max(D.values())[0]  # Distance d'un tour
